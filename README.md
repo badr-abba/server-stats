@@ -34,5 +34,5 @@ Ce script est conçu pour être hautement compatible. Il fonctionne sur la major
 
 1. **Cloner le dépôt :**
    ```bash
-   git clone [https://github.com/badr-abba/server-stats.git](https://github.com/badr-abba/server-stats.git)
+   git clone https://github.com/badr-abba/server-stats.git
    cd server-stats
