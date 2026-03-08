@@ -36,3 +36,19 @@ Ce script est conçu pour être hautement compatible. Il fonctionne sur la major
    ```bash
    git clone https://github.com/badr-abba/server-stats.git
    cd server-stats
+   ```
+2. **Accorder les droits d'exécution :**
+
+   ```bash
+   chmod +x server-stats.sh
+   ```
+3. **Exécuter le script :**
+
+   ```bash
+   ./server-stats.sh
+   ```
+Note : Pour pouvoir lire les journaux système sécurisés (nécessaire pour afficher les tentatives de connexion échouées), il est recommandé d'exécuter le script avec les privilèges administrateur :
+
+   ```bash
+   sudo ./server-stats.sh
+   ```
